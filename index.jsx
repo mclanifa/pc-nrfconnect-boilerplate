@@ -37,7 +37,7 @@
 import React from 'react';
 import { logger } from 'nrfconnect/core';
 import Hello from './components/Hello';
-import './resources/css/index.less';
+import './resources/css/index.scss';
 
 /* eslint-disable react/prop-types, no-unused-vars */
 
